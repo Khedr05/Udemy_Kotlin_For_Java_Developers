@@ -1,5 +1,5 @@
 
-package com.sherif.kotlin_for_java_developers.section_2.text_adventure_game
+package com.sherif.kotlin_for_java_developers.section_2
 
 
 data class Location(val locationID: Int, val description: String){
